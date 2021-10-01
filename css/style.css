@@ -26,16 +26,17 @@ h2{
     width: 50%;
 }
 .logo{
+    padding-top: 12.85px;
+    padding-bottom: 9.65px;
     padding-left: 30px;
+}
+.contact{
+    padding-right: 5px;
 }
 .contacts{
     padding-right: 30px;
 }
-.logo,
-.contacts{
-    padding-top: 12.85px;
-    padding-bottom: 9.65px;
-}
+
 .phone{
     padding-right: 7px;
 }
